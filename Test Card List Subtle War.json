@@ -84,7 +84,8 @@
     },
     "name": "It That Grasps From Beyond",
     "type": "Legendary Entity",
-    "cost": 10
+    "cost": 10,
+    "tokens": ["T1"]
   },
   "6": {
     "id": "6",
