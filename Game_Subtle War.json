@@ -43,12 +43,12 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "1"
+        25
       ],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana"
+          "Mana", "Zone_1", "Zone_2", "Zone_3", "Zone_4", "Zone_5"
         ],
         "layout": {
           "direction": "row",
