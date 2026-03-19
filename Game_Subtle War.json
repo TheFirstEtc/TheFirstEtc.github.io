@@ -54,17 +54,11 @@
           "direction": "column",
           "isSymetricalForOpponents": false,
           "content": [
-            {
-              "direction": "row",
-              "style": false,
-              "content": [{"section": "Zone_1", "style":{"width":"15vh"}}, 
-              {"section": "Zone_2", "style":{"width":"15vh"}}, 
-              {"section": "Zone_3", "style":{"width":"15vh"}},
-              {"section": "Zone_4", "style":{"width":"15vh"}},
-              {"section": "Zone_5", "style":{"width":"15vh"}}]
-            }, 
-            {"section": "Mana", "style":{"width":"15vh"}}
-          ]
+            {"section": "Zone_1"}, 
+              {"section": "Zone_2"}, 
+              {"section": "Zone_3"},
+              {"section": "Zone_4"},
+              {"section": "Zone_5"}]
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
