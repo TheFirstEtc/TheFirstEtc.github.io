@@ -54,8 +54,8 @@
           "direction": "column",
           "style": false,
           "isSymetricalForOpponents": false,
-          "optional": {"section": "Zone_3"},
           "content": [
+            {"section": "Zone_3", "optional": {"key": "Extra Zone"}},
               {"section": "Zone_2"}, 
               {"section": "Zone_1"}
             ]
