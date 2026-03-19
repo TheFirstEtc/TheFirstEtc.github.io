@@ -48,7 +48,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Zone_1", "Zone_2", "Zone_3", "Zone_4", "Zone_5"
+          "Zone_1", "Zone_2"
         ],
         "layout": {
           "direction": "column",
