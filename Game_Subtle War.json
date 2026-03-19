@@ -55,9 +55,9 @@
           "style": false,
           "isSymetricalForOpponents": false,
           "content": [
-            {"section": "Zone_3", "optional": {"key": "Extra Zone"}},
-              {"section": "Zone_2"}, 
-              {"section": "Zone_1"}
+              {"section": "Zone_2", "style": false}, 
+              {"section": "Zone_1", "style": false},
+              {"section": "Zone_3", "style": false, "optional": {"key": "Extra Zone"}}
             ]
         },
         "categoriesAlreadyOnBoard": [],
