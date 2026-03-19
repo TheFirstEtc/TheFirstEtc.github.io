@@ -48,15 +48,13 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Zone_1", "Zone_2", "Zone_3", "Zone_4"
+          "Zone_1", "Zone_2"
         ],
         "layout": {
           "direction": "column",
           "style": false,
           "isSymetricalForOpponents": false,
           "content": [
-              {"section": "Zone_4"},
-              {"section": "Zone_3"},
               {"section": "Zone_2"}, 
               {"section": "Zone_1"}
             ]
@@ -90,38 +88,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Zone 2",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Zone_3": {
-            "title": "Zone_3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Extra Zone",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Zone_4": {
-            "title": "Zone_4",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Zone 4",
             "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
