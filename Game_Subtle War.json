@@ -56,8 +56,7 @@
           "isSymetricalForOpponents": false,
           "content": [
               {"section": "Zone_2", "style": false}, 
-              {"section": "Zone_1", "style": false},
-              {"section": "Zone_3", "style": false}
+              {"section": "Zone_1", "style": false}
             ]
         },
         "categoriesAlreadyOnBoard": [],
