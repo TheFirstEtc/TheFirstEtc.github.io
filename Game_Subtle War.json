@@ -54,12 +54,10 @@
           "direction": "column",
           "style": false,
           "isSymetricalForOpponents": false,
+          "optional": {"section": "Zone_3"},
           "content": [
-            {"section": "Zone_1"}, 
               {"section": "Zone_2"}, 
-              {"section": "Zone_3"},
-              {"section": "Zone_4"},
-              {"section": "Zone_5"}
+              {"section": "Zone_1"}
             ]
         },
         "categoriesAlreadyOnBoard": [],
