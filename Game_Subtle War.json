@@ -48,18 +48,17 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Zone_1", "Zone_2", "Zone_3", "Zone_4", "Zone_5"
+          "Zone_1", "Zone_2", "Zone_3", "Zone_4"
         ],
         "layout": {
           "direction": "column",
           "style": false,
           "isSymetricalForOpponents": false,
           "content": [
-              {"section": "Zone_5", "style": false},
-              {"section": "Zone_4", "style": false},
-              {"section": "Zone_3", "style": false},
-              {"section": "Zone_2", "style": false}, 
-              {"section": "Zone_1", "style": false}
+              {"section": "Zone_4"},
+              {"section": "Zone_3"},
+              {"section": "Zone_2"}, 
+              {"section": "Zone_1"}
             ]
         },
         "categoriesAlreadyOnBoard": [],
@@ -129,25 +128,9 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          },
-          "Zone_5": {
-            "title": "Zone_5",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Zone 5",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+          }
           }
         }
       }
     }
   }
-}
