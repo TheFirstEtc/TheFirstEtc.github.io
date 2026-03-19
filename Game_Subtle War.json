@@ -29,7 +29,7 @@
     "Classic": {
       "mulligan": {
         "info": "Redraw your hand",
-        "startingHandSize": "4",
+        "startingHandSize": 4,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": true
