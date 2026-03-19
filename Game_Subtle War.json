@@ -8,19 +8,27 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://thefirstetc.github.io/Test%20Card%20List%20Subtle%20War.json",
+    "dataUrl": "https://TheFirstEtc.github.io/Test%20Card%20List%20Subtle%20War.json",
     "cardBack": ""
   },
   "deckBuilding": {
     "mainFilters": [
-      ""
+      "type",
+      "cost",
+      "name"
     ],
-    "formats": ["Classic"]
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
+        "info": "Redraw your hand",
         "startingHandSize": "4",
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -35,49 +43,47 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        0
+        "1"
       ],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Energy"
+          "Mana"
         ],
         "layout": {
           "direction": "row",
           "isSymetricalForOpponents": false,
           "content": []
         },
-        "categoriesAlreadyOnBoard": [
-          ""
-        ],
+        "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
           "Mana": {
             "title": "Mana",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
             "displayedTitle": "Ressources",
-            "enterTapped": true,
+            "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Zone 1": {
-            "title": "Zone 1",
+          "Zone_1": {
+            "title": "Zone_1",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Zone 1",
             "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
@@ -85,15 +91,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Zone 2": {
-            "title": "Zone 2",
+          "Zone_2": {
+            "title": "Zone_2",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Zone 2",
             "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
@@ -101,15 +107,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Zone 3": {
-            "title": "Zone 3",
+          "Zone_3": {
+            "title": "Zone_3",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Zone 3",
             "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
@@ -117,15 +123,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Zone 4": {
-            "title": "Zone 4",
+          "Zone_4": {
+            "title": "Zone_4",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Zone 4",
             "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
@@ -133,15 +139,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Zone 5": {
-            "title": "Zone 5",
+          "Zone_5": {
+            "title": "Zone_5",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Zone 5",
             "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
