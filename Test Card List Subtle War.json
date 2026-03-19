@@ -1,0 +1,265 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Eclipsed Princess",
+        "type": false,
+        "cost": "6",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/the%20eclipsed%20princess.png?raw=true",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Perilunar Wreath",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/perilunar%20wreath.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Eclipsed Princess // Perilunar Wreath",
+    "type": false,
+    "cost": "6"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fathom-Chant",
+        "type": false,
+        "cost": "3",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/fathom-chant.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fathom Chant",
+    "type": false,
+    "cost": "3"
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ctenizidoor",
+        "type": false,
+        "cost": "6",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/ctenizidoor.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ctenizidoor",
+    "type": false,
+    "cost": "6"
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Devstorm Re-Innovation",
+        "type": false,
+        "cost": "2",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/devstorm%20re-innovation.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devstorm Re-Innovation",
+    "type": false,
+    "cost": "2"
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "It That Grasps From Beyond",
+        "type": false,
+        "cost": "10",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/it%20that%20grasps%20from%20beyond.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "It That Grasps From Beyond",
+    "type": false,
+    "cost": "10"
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iterduplicator",
+        "type": false,
+        "cost": "2",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/iterduplicator.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iterduplicator",
+    "type": false,
+    "cost": "2"
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Martyr March",
+        "type": false,
+        "cost": "5",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/martyr-march.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Martyr March",
+    "type": false,
+    "cost": "5"
+  },
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Purge Weakness",
+        "type": false,
+        "cost": "1",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/purge%20weakness.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Purge Weakness",
+    "type": false,
+    "cost": "1"
+  },
+  "9": {
+    "id": "9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rebel Rabble",
+        "type": false,
+        "cost": "7",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/rebel-rabble.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebel Rabble",
+    "type": false,
+    "cost": "7"
+  },
+  "10": {
+    "id": "10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Smogstack",
+        "type": false,
+        "cost": "2",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/smogstack.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Smogstack",
+    "type": false,
+    "cost": "2"
+  },
+  "11": {
+    "id": "11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Blessed",
+        "type": false,
+        "cost": "5",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/the%20blessed.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Blessed",
+    "type": false,
+    "cost": "5"
+  },
+  "12": {
+    "id": "12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triune Offering",
+        "type": false,
+        "cost": "4",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/triune%20offering.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triune Offering",
+    "type": false,
+    "cost": "4"
+  },
+  "13": {
+    "id": "13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unreality Written",
+        "type": false,
+        "cost": "2",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/unreality%20written.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unreality Written",
+    "type": false,
+    "cost": "2"
+  },
+  "14": {
+    "id": "14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vestige",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/vestige.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vestige",
+    "type": false,
+    "cost": 0
+  },
+  "15": {
+    "id": "15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Weight of Fears",
+        "type": false,
+        "cost": "2",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/weight%20of%20fears.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Weight of Fears",
+    "type": false,
+    "cost": "2"
+  },
+  "T1": {
+    "id": "T1",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Grasping Tendril",
+        "type": false,
+        "cost": "2",
+        "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/grasping%20tendril.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grasping Tendril",
+    "type": false,
+    "cost": "2"
+  }
+}
