@@ -52,13 +52,15 @@
         ],
         "layout": {
           "direction": "column",
+          "style": false,
           "isSymetricalForOpponents": false,
           "content": [
             {"section": "Zone_1"}, 
               {"section": "Zone_2"}, 
               {"section": "Zone_3"},
               {"section": "Zone_4"},
-              {"section": "Zone_5"}]
+              {"section": "Zone_5"}
+            ]
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
