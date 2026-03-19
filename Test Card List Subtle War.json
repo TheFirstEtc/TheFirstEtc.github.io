@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "The Eclipsed Princess",
-        "type": false,
+        "type": "Legendary Ward",
         "cost": "6",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/the%20eclipsed%20princess.png?raw=true",
         "isHorizontal": false
       },
       "back": {
         "name": "Perilunar Wreath",
-        "type": "",
+        "type": "Legendary Ward",
         "cost": 0,
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/perilunar%20wreath.png?raw=true",
         "isHorizontal": false
@@ -28,7 +28,7 @@
     "face": {
       "front": {
         "name": "Fathom-Chant",
-        "type": false,
+        "type": "Evocation",
         "cost": "3",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/fathom-chant.png?raw=true",
         "isHorizontal": false
@@ -44,7 +44,7 @@
     "face": {
       "front": {
         "name": "Ctenizidoor",
-        "type": false,
+        "type": "Entity",
         "cost": "6",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/ctenizidoor.png?raw=true",
         "isHorizontal": false
@@ -60,7 +60,7 @@
     "face": {
       "front": {
         "name": "Devstorm Re-Innovation",
-        "type": false,
+        "type": "Construct Ward",
         "cost": "2",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/devstorm%20re-innovation.png?raw=true",
         "isHorizontal": false
@@ -76,7 +76,7 @@
     "face": {
       "front": {
         "name": "It That Grasps From Beyond",
-        "type": false,
+        "type": "Legendary Entity",
         "cost": "10",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/it%20that%20grasps%20from%20beyond.png?raw=true",
         "isHorizontal": false
@@ -92,7 +92,7 @@
     "face": {
       "front": {
         "name": "Iterduplicator",
-        "type": false,
+        "type": "Ward",
         "cost": "2",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/iterduplicator.png?raw=true",
         "isHorizontal": false
@@ -108,7 +108,7 @@
     "face": {
       "front": {
         "name": "Martyr March",
-        "type": false,
+        "type": "Swift Evocation",
         "cost": "5",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/martyr-march.png?raw=true",
         "isHorizontal": false
@@ -124,7 +124,7 @@
     "face": {
       "front": {
         "name": "Purge Weakness",
-        "type": false,
+        "type": "Evocation",
         "cost": "1",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/purge%20weakness.png?raw=true",
         "isHorizontal": false
@@ -140,7 +140,7 @@
     "face": {
       "front": {
         "name": "Rebel Rabble",
-        "type": false,
+        "type": "Entity",
         "cost": "7",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/rebel-rabble.png?raw=true",
         "isHorizontal": false
@@ -156,7 +156,7 @@
     "face": {
       "front": {
         "name": "Smogstack",
-        "type": false,
+        "type": "Ward",
         "cost": "2",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/smogstack.png?raw=true",
         "isHorizontal": false
@@ -172,7 +172,7 @@
     "face": {
       "front": {
         "name": "The Blessed",
-        "type": false,
+        "type": "Legendary Entity",
         "cost": "5",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/the%20blessed.png?raw=true",
         "isHorizontal": false
@@ -188,7 +188,7 @@
     "face": {
       "front": {
         "name": "Triune Offering",
-        "type": false,
+        "type": "Swift Evocation",
         "cost": "4",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/triune%20offering.png?raw=true",
         "isHorizontal": false
@@ -204,7 +204,7 @@
     "face": {
       "front": {
         "name": "Unreality Written",
-        "type": false,
+        "type": "Ward",
         "cost": "2",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/unreality%20written.png?raw=true",
         "isHorizontal": false
@@ -220,7 +220,7 @@
     "face": {
       "front": {
         "name": "Vestige",
-        "type": false,
+        "type": "Entity",
         "cost": 0,
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/vestige.png?raw=true",
         "isHorizontal": false
@@ -236,7 +236,7 @@
     "face": {
       "front": {
         "name": "Weight of Fears",
-        "type": false,
+        "type": "Evocation",
         "cost": "2",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/weight%20of%20fears.png?raw=true",
         "isHorizontal": false
@@ -252,7 +252,7 @@
     "face": {
       "front": {
         "name": "Grasping Tendril",
-        "type": false,
+        "type": "Entity",
         "cost": "2",
         "image": "https://github.com/TheFirstEtc/subtlewarimages/blob/main/grasping%20tendril.png?raw=true",
         "isHorizontal": false
