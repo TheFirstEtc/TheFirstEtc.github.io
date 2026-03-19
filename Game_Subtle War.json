@@ -64,22 +64,6 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
           "Zone_1": {
             "title": "Zone_1",
             "isHidden": "no",
