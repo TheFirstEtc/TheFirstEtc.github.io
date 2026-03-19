@@ -15,7 +15,7 @@
     "mainFilters": [
       ""
     ],
-    "formats": ["Classic", "Test"]
+    "formats": ["Classic"]
   },
   "gameplay": {
     "Classic": {
