@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/TheFirstEtc/subtlewarimages/refs/heads/main/Test%20Card%20List%20Subtle%20War.json",
+    "dataUrl": "https://thefirstetc.github.io/Test%20Card%20List%20Subtle%20War.json",
     "cardBack": ""
   },
   "deckBuilding": {
