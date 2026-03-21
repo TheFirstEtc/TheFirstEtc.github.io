@@ -14316,10 +14316,7 @@
                 "cost": 9,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ibanyccus,%20the%20merry.png?raw=true",
                 "isHorizontal": false
-            },
-            "tokens": [
-                "Dragon's Scale"
-            ]
+            }
         },
         "name": "Ibanyccus, the Merry",
         "type": "Legendary Dragon Entity",
@@ -15328,10 +15325,7 @@
                 "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ka-te,%20first%20hunter.png?raw=true",
                 "isHorizontal": false
-            },
-            "tokens": [
-                "Hunter's Mark"
-            ]
+            }
         },
         "name": "Ka-Te, First Hunter",
         "type": "Titan Treasure Legendary Entity",
@@ -35008,14 +35002,1297 @@
                 "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/zeraxus,%20the%20tyrant.png?raw=true",
                 "isHorizontal": false
-            },
-            "tokens": [
-                "Storm's Eye"
-            ]
+            }
         },
         "name": "Zeraxus, the Tyrant",
         "type": "Legendary Dragon Entity",
         "cost": 10,
         "set": "Storm-Eternal"
+    },
+    "Realm: Abattoir": {
+        "id": "Realm: Abattoir",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Realm: Abattoir",
+                "type": "Ward",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/realm%20abattoir.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Realm: Abattoir",
+        "type": "Ward",
+        "cost": 4,
+        "set": "War-War"
+    },
+    "Realm: Depths": {
+        "id": "Realm: Depths",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Realm: Depths",
+                "type": "Ward",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/realm%20depths.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Unity Engine"
+            ]
+        },
+        "name": "Realm: Depths",
+        "type": "Ward",
+        "cost": 4,
+        "set": "Deep-Deep"
+    },
+    "Realm: Forest": {
+        "id": "Realm: Forest",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Realm: Forest",
+                "type": "Ward",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/realm%20forest.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Incarnate"
+            ]
+        },
+        "name": "Realm: Forest",
+        "type": "Ward",
+        "cost": 4,
+        "set": "Wild-Wild"
+    },
+    "Realm: Orchestra": {
+        "id": "Realm: Orchestra",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Realm: Orchestra",
+                "type": "Ward",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/realm%20orchestra.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Crescendo"
+            ]
+        },
+        "name": "Realm: Orchestra",
+        "type": "Ward",
+        "cost": 4,
+        "set": "Storm-Storm"
+    },
+    "Realm: Summit": {
+        "id": "Realm: Summit",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Realm: Summit",
+                "type": "Ward",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/realm%20summit.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Realm: Summit",
+        "type": "Ward",
+        "cost": 4,
+        "set": "Light-Light"
+    },
+    "Realm: W. Aster": {
+        "id": "Realm: W. Aster",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Realm: W. Aster",
+                "type": "Ward",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/realm%20w.%20aster.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Realm: W. Aster",
+        "type": "Ward",
+        "cost": 4,
+        "set": "Dark-Dark"
+    },
+    "Speak the Name: Immaculate": {
+        "id": "Speak the Name: Immaculate",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Speak the Name: Immaculate",
+                "type": "Evocation",
+                "cost": 5,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/speak%20the%20name%20immaculate.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Flame"
+            ]
+        },
+        "name": "Speak the Name: Immaculate",
+        "type": "Evocation",
+        "cost": 5,
+        "set": "Unbroken Line"
+    },
+    "Speak the Name: Leviathan // Name of the Leviathan": {
+        "id": "Speak the Name: Leviathan // Name of the Leviathan",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Speak the Name: Leviathan",
+                "type": "Ward",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/speak%20the%20name%20leviathan.png?raw=true",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Name of the Leviathan",
+                "type": "Entity",
+                "cost": "20",
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/name%20of%20the%20leviathan.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Syllable of Leviathan"
+            ]
+        },
+        "name": "Speak the Name: Leviathan // Name of the Leviathan",
+        "type": "Ward",
+        "cost": 4,
+        "set": "Lambda Theta"
+    },
+    "Syllable: Mendicant": {
+        "id": "Syllable: Mendicant",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Syllable: Mendicant",
+                "type": "Entity",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/syllable%20mendicant.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Syllable: Mendicant",
+        "type": "Entity",
+        "cost": 3,
+        "set": "Storm-Mendicant"
+    },
+    "Agamemnon's Price": {
+        "id": "Agamemnon's Price",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Agamemnon's Price",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/agamemnons%20price.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Agamemnon's Price",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Wild-Eternal"
+    },
+    "Archmagus' Acuity": {
+        "id": "Archmagus' Acuity",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Archmagus' Acuity",
+                "type": "Evocation",
+                "cost": 8,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/archmagus%20acuity.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Archmagus' Acuity",
+        "type": "Evocation",
+        "cost": 8,
+        "set": "Token"
+    },
+    "Ariadne's Chant": {
+        "id": "Ariadne's Chant",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ariadne's Chant",
+                "type": "Swift Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ariadnes%20chant.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Web"
+            ]
+        },
+        "name": "Ariadne's Chant",
+        "type": "Swift Evocation",
+        "cost": 2,
+        "set": "Deep-Void"
+    },
+    "Baba Yaga's Curse": {
+        "id": "Baba Yaga's Curse",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Baba Yaga's Curse",
+                "type": "Hex",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/baba%20yagas%20curse.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Grunt"
+            ]
+        },
+        "name": "Baba Yaga's Curse",
+        "type": "Hex",
+        "cost": 3,
+        "set": "War-Eternal"
+    },
+    "Blind Man's Circle": {
+        "id": "Blind Man's Circle",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blind Man's Circle",
+                "type": "Ward",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/blind%20mans%20circle.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blind Man's Circle",
+        "type": "Ward",
+        "cost": 3,
+        "set": "Unlore"
+    },
+    "Blind Man's Gate": {
+        "id": "Blind Man's Gate",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blind Man's Gate",
+                "type": "Ward",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/blind%20mans%20gate.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blind Man's Gate",
+        "type": "Ward",
+        "cost": 3,
+        "set": "Deep-Eternal"
+    },
+    "Brother's Love": {
+        "id": "Brother's Love",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Brother's Love",
+                "type": "Swift Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/brothers%20love.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Brother's Love",
+        "type": "Swift Evocation",
+        "cost": 2,
+        "set": "The Family"
+    },
+    "Butcher's Lab": {
+        "id": "Butcher's Lab",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Butcher's Lab",
+                "type": "Ward",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/butchers%20lab.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Split"
+            ]
+        },
+        "name": "Butcher's Lab",
+        "type": "Ward",
+        "cost": 1,
+        "set": "War-Experiment"
+    },
+    "Carnot's Rebuke": {
+        "id": "Carnot's Rebuke",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Carnot's Rebuke",
+                "type": "Swift Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/carnots%20rebuke.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Carnot's Rebuke",
+        "type": "Swift Evocation",
+        "cost": 2,
+        "set": "Dark-Eternal"
+    },
+    "Carter's Rune": {
+        "id": "Carter's Rune",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Carter's Rune",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/carters%20rune.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Carter's Rune",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Deep-Cradle"
+    },
+    "Chekhov's Rune": {
+        "id": "Chekhov's Rune",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chekhov's Rune",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/chekhovs%20rune.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chekhov's Rune",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Storm-Pageantine"
+    },
+    "Conductor's Baton": {
+        "id": "Conductor's Baton",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Conductor's Baton",
+                "type": "Armament",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/conductors%20baton.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Conductor's Baton",
+        "type": "Armament",
+        "cost": 1,
+        "set": "Storm-Mendicant"
+    },
+    "Coward's Blade": {
+        "id": "Coward's Blade",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Coward's Blade",
+                "type": "Armament",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/cowards%20blade.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coward's Blade",
+        "type": "Armament",
+        "cost": 4,
+        "set": "War-Eternal"
+    },
+    "Cut-Spinster's Stitch": {
+        "id": "Cut-Spinster's Stitch",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cut-Spinster's Stitch",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/cut-spinsters%20stitch.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Web"
+            ]
+        },
+        "name": "Cut-Spinster's Stitch",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Deep-Carver"
+    },
+    "Deadman's Dekko": {
+        "id": "Deadman's Dekko",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Deadman's Dekko",
+                "type": "Swift Evocation",
+                "cost": 4,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/deadmans%20dekko.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Deadman's Dekko",
+        "type": "Swift Evocation",
+        "cost": 4,
+        "set": "War"
+    },
+    "Dee's Fifth Theorem": {
+        "id": "Dee's Fifth Theorem",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dee's Fifth Theorem",
+                "type": "Ward",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/dees%20fifth%20theorem.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dee's Fifth Theorem",
+        "type": "Ward",
+        "cost": 3,
+        "set": "Deep-Wire"
+    },
+    "Dee's Fourth Theorem": {
+        "id": "Dee's Fourth Theorem",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dee's Fourth Theorem",
+                "type": "Ward",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/dees%20fourth%20theorem.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dee's Fourth Theorem",
+        "type": "Ward",
+        "cost": 3,
+        "set": "Light-Eternal"
+    },
+    "Dee's Second Theorem": {
+        "id": "Dee's Second Theorem",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dee's Second Theorem",
+                "type": "Ward",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/dees%20second%20theorem.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dee's Second Theorem",
+        "type": "Ward",
+        "cost": 3,
+        "set": "Storm-Eternal"
+    },
+    "Dragon's Scale": {
+        "id": "Dragon's Scale",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Dragon's Scale",
+                "type": "Dragon Entity",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/dragons%20scale.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragon's Scale",
+        "type": "Dragon Entity",
+        "cost": 2,
+        "set": "Token"
+    },
+    "Falsehood's Ashes": {
+        "id": "Falsehood's Ashes",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Falsehood's Ashes",
+                "type": "Entity",
+                "cost": 8,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/falsehoods%20ashes.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Falsehood's Ashes",
+        "type": "Entity",
+        "cost": 8,
+        "set": "Dark-Eternal"
+    },
+    "Ferryman's Barrier": {
+        "id": "Ferryman's Barrier",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ferryman's Barrier",
+                "type": "Evocation",
+                "cost": 6,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ferrymans%20barrier.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ferryman's Barrier",
+        "type": "Evocation",
+        "cost": 6,
+        "set": "War-Eternal"
+    },
+    "Finch's Aviary": {
+        "id": "Finch's Aviary",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Finch's Aviary",
+                "type": "Ward",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/finchs%20aviary.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Carrion Crow"
+            ]
+        },
+        "name": "Finch's Aviary",
+        "type": "Ward",
+        "cost": 1,
+        "set": "Storm-Finch"
+    },
+    "Finvarra's Gambit": {
+        "id": "Finvarra's Gambit",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Finvarra's Gambit",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/finvarras%20gambit.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Afterimage"
+            ]
+        },
+        "name": "Finvarra's Gambit",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Storm-Eternal"
+    },
+    "Fool's Gold": {
+        "id": "Fool's Gold",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fool's Gold",
+                "type": "Ward",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/fools%20gold.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fool's Gold",
+        "type": "Ward",
+        "cost": 1,
+        "set": "Deep-Twilight"
+    },
+    "Goatherd's Burden": {
+        "id": "Goatherd's Burden",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goatherd's Burden",
+                "type": "Hex",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/goatherds%20burden.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Flock"
+            ]
+        },
+        "name": "Goatherd's Burden",
+        "type": "Hex",
+        "cost": 1,
+        "set": "Dark-Hall"
+    },
+    "Grisly Harvest": {
+        "id": "Grisly Harvest",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Grisly Harvest",
+                "type": "Ward",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/grisly%20harvest.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Spare Parts"
+            ]
+        },
+        "name": "Grisly Harvest",
+        "type": "Ward",
+        "cost": 2,
+        "set": "War-Experiment"
+    },
+    "Hall's Kiss": {
+        "id": "Hall's Kiss",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hall's Kiss",
+                "type": "Evocation",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/halls%20kiss.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hall's Kiss",
+        "type": "Evocation",
+        "cost": 1,
+        "set": "Dark-Hall"
+    },
+    "Heaven's Rage": {
+        "id": "Heaven's Rage",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Heaven's Rage",
+                "type": "Swift Evocation",
+                "cost": 6,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/heavens%20rage.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Heaven's Rage",
+        "type": "Swift Evocation",
+        "cost": 6,
+        "set": "Storm"
+    },
+    "Heaven's Reverberation": {
+        "id": "Heaven's Reverberation",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Heaven's Reverberation",
+                "type": "Evocation",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/heavens%20reverberation.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Heaven's Reverberation",
+        "type": "Evocation",
+        "cost": 3,
+        "set": "Storm-Temporal"
+    },
+    "Heaven's Wrath": {
+        "id": "Heaven's Wrath",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Heaven's Wrath",
+                "type": "Armament",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/heavens%20wrath.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Heaven's Wrath",
+        "type": "Armament",
+        "cost": 2,
+        "set": "Storm-Tendon"
+    },
+    "Hunt-Caller's Mantle": {
+        "id": "Hunt-Caller's Mantle",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hunt-Caller's Mantle",
+                "type": "Hex",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/hunt-callers%20mantle.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hunt-Caller's Mantle",
+        "type": "Hex",
+        "cost": 3,
+        "set": "Wild-Eternal"
+    },
+    "Hunter's Horn": {
+        "id": "Hunter's Horn",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hunter's Horn",
+                "type": "Evocation",
+                "cost": 5,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/hunters%20horn.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hunter's Horn",
+        "type": "Evocation",
+        "cost": 5,
+        "set": "Wild-Eternal"
+    },
+    "Hunter's Mark": {
+        "id": "Hunter's Mark",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Hunter's Mark",
+                "type": "Hex",
+                "cost": 0,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/hunters%20mark.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hunter's Mark",
+        "type": "Hex",
+        "cost": 0,
+        "set": "Token"
+    },
+    "Huntsman's Bow": {
+        "id": "Huntsman's Bow",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Huntsman's Bow",
+                "type": "Armament",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/huntsmans%20bow.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Huntsman's Bow",
+        "type": "Armament",
+        "cost": 3,
+        "set": "Wild-Eternal"
+    },
+    "Incan't": {
+        "id": "Incan't",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Incan't",
+                "type": "Entity",
+                "cost": 5,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/incant.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Incan't",
+        "type": "Entity",
+        "cost": 5,
+        "set": "Dark-Gorge"
+    },
+    "Judgement's Aegis": {
+        "id": "Judgement's Aegis",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Judgement's Aegis",
+                "type": "Ward",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/judgements%20aegis.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Judgement's Aegis",
+        "type": "Ward",
+        "cost": 2,
+        "set": "War-Thorn"
+    },
+    "Lena's Touch": {
+        "id": "Lena's Touch",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Lena's Touch",
+                "type": "Hex",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/lenas%20touch.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lena's Touch",
+        "type": "Hex",
+        "cost": 1,
+        "set": "Token"
+    },
+    "Midas' Grasp": {
+        "id": "Midas' Grasp",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Midas' Grasp",
+                "type": "Hex",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/midas%20grasp.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Midas' Grasp",
+        "type": "Hex",
+        "cost": 2,
+        "set": "Drakotheisos"
+    },
+    "Moment's Mirror": {
+        "id": "Moment's Mirror",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Moment's Mirror",
+                "type": "Evocation",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/moments%20mirror.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Moment's Mirror",
+        "type": "Evocation",
+        "cost": 3,
+        "set": "Storm-Eternal"
+    },
+    "Nike's Gift": {
+        "id": "Nike's Gift",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nike's Gift",
+                "type": "Swift Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/nikes%20gift.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nike's Gift",
+        "type": "Swift Evocation",
+        "cost": 2,
+        "set": "Deep-Eternal"
+    },
+    "Odr's Writhe": {
+        "id": "Odr's Writhe",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Odr's Writhe",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/odrs%20writhe.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Odr's Writhe",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Wild-Forest"
+    },
+    "Ol' Bright, Delighted": {
+        "id": "Ol' Bright, Delighted",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ol' Bright, Delighted",
+                "type": "Legendary Entity",
+                "cost": 5,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ol%20bright,%20delighted.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ol' Bright, Delighted",
+        "type": "Legendary Entity",
+        "cost": 5,
+        "set": "Light-Light"
+    },
+    "Ol' Bright": {
+        "id": "Ol' Bright",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ol' Bright",
+                "type": "Legendary Entity",
+                "cost": 5,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ol%20bright.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ol' Bright",
+        "type": "Legendary Entity",
+        "cost": 5,
+        "set": "Light-Eternal"
+    },
+    "Our Lady's Disfavor": {
+        "id": "Our Lady's Disfavor",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Our Lady's Disfavor",
+                "type": "Swift Evocation",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/our%20ladys%20disfavor.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Our Lady's Disfavor",
+        "type": "Swift Evocation",
+        "cost": 1,
+        "set": "War-Pain"
+    },
+    "Pilgrim's Way": {
+        "id": "Pilgrim's Way",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pilgrim's Way",
+                "type": "Ward",
+                "cost": 8,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/pilgrims%20way.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Pilgrim"
+            ]
+        },
+        "name": "Pilgrim's Way",
+        "type": "Ward",
+        "cost": 8,
+        "set": "Storm-Mendicant"
+    },
+    "Pliny's Nightmare": {
+        "id": "Pliny's Nightmare",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pliny's Nightmare",
+                "type": "Evocation",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/plinys%20nightmare.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pliny's Nightmare",
+        "type": "Evocation",
+        "cost": 3,
+        "set": "Light"
+    },
+    "Queen's Command": {
+        "id": "Queen's Command",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Queen's Command",
+                "type": "Evocation",
+                "cost": 8,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/queens%20command.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Queen's Command",
+        "type": "Evocation",
+        "cost": 8,
+        "set": "War-Eternal"
+    },
+    "Roko's Maledict": {
+        "id": "Roko's Maledict",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Roko's Maledict",
+                "type": "Entity",
+                "cost": 5,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/rokos%20maledict.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Roko's Maledict",
+        "type": "Entity",
+        "cost": 5,
+        "set": "Wild-Mendicant"
+    },
+    "Scyllus' Tribute": {
+        "id": "Scyllus' Tribute",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Scyllus' Tribute",
+                "type": "Swift Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/scyllus%20tribute.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Gold"
+            ]
+        },
+        "name": "Scyllus' Tribute",
+        "type": "Swift Evocation",
+        "cost": 2,
+        "set": "Deep-Giants"
+    },
+    "Sergeant's Axe": {
+        "id": "Sergeant's Axe",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sergeant's Axe",
+                "type": "Armament",
+                "cost": 5,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/sergeants%20axe.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sergeant's Axe",
+        "type": "Armament",
+        "cost": 5,
+        "set": "War-Thorn"
+    },
+    "Storm's Eye": {
+        "id": "Storm's Eye",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Storm's Eye",
+                "type": "Ward",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/storms%20eye.png?raw=true",
+                "isHorizontal": false
+            },
+            "tokens": [
+                "Bolt from the Blue"
+            ]
+        },
+        "name": "Storm's Eye",
+        "type": "Ward",
+        "cost": 1,
+        "set": "Token"
+    },
+    "Surgeon's Block": {
+        "id": "Surgeon's Block",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Surgeon's Block",
+                "type": "Ward",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/surgeons%20block.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Surgeon's Block",
+        "type": "Ward",
+        "cost": 3,
+        "set": "War-Eternal"
+    },
+    "Survivor's Guilt": {
+        "id": "Survivor's Guilt",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Survivor's Guilt",
+                "type": "Evocation",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/survivors%20guilt.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Survivor's Guilt",
+        "type": "Evocation",
+        "cost": 3,
+        "set": "Deep-Cyclopean"
+    },
+    "The Thelemist's Trick": {
+        "id": "The Thelemist's Trick",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "The Thelemist's Trick",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/the%20thelemists%20trick.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "The Thelemist's Trick",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Storm-Eternal"
+    },
+    "Treus' Threnody": {
+        "id": "Treus' Threnody",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Treus' Threnody",
+                "type": "Evocation",
+                "cost": 1,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/treus%20threnody.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Treus' Threnody",
+        "type": "Evocation",
+        "cost": 1,
+        "set": "Wild-Giants"
+    },
+    "Valhala's Bane": {
+        "id": "Valhala's Bane",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Valhala's Bane",
+                "type": "Armament",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/valhalas%20bane.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Valhala's Bane",
+        "type": "Armament",
+        "cost": 3,
+        "set": "War-Eternal"
+    },
+    "Veneur's Attention": {
+        "id": "Veneur's Attention",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Veneur's Attention",
+                "type": "Swift Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/veneurs%20attention.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Veneur's Attention",
+        "type": "Swift Evocation",
+        "cost": 2,
+        "set": "Wild-Eternal"
+    },
+    "Vindicator's Censer": {
+        "id": "Vindicator's Censer",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Vindicator's Censer",
+                "type": "Armament",
+                "cost": 3,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/vindicators%20censer.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vindicator's Censer",
+        "type": "Armament",
+        "cost": 3,
+        "set": "War-Keeper"
+    },
+    "Westcott's Shield": {
+        "id": "Westcott's Shield",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Westcott's Shield",
+                "type": "Swift Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/westcotts%20shield.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Westcott's Shield",
+        "type": "Swift Evocation",
+        "cost": 2,
+        "set": "War-Eternal"
+    },
+    "Yesterday's Rasp": {
+        "id": "Yesterday's Rasp",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yesterday's Rasp",
+                "type": "Entity",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/yesterdays%20rasp.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yesterday's Rasp",
+        "type": "Entity",
+        "cost": 2,
+        "set": "Storm-Breath"
+    },
+    "Yuri's Starflame": {
+        "id": "Yuri's Starflame",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yuri's Starflame",
+                "type": "Swift Evocation",
+                "cost": 8,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/yuris%20starflame.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yuri's Starflame",
+        "type": "Swift Evocation",
+        "cost": 8,
+        "set": "SUN-Yuri"
+    },
+    "Rampage!": {
+        "id": "Rampage!",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rampage!",
+                "type": "Evocation",
+                "cost": 2,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/rampage!.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rampage!",
+        "type": "Evocation",
+        "cost": 2,
+        "set": "Wild-Eternal"
+    },
+    "R!0t // Rebellious Mob": {
+        "id": "R!0t // Rebellious Mob",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "R!0t",
+                "type": "Ward",
+                "cost": 8,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/r!0t.png?raw=true",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Rebellious Mob",
+                "type": "Entity",
+                "cost": "8",
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/rebellious%20mob.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "R!0t // Rebellious Mob",
+        "type": "Ward",
+        "cost": 8,
+        "set": "Deep-Daughter"
     }
 }
