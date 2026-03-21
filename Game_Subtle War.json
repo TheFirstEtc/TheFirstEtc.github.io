@@ -15,7 +15,8 @@
     "mainFilters": [
       "type",
       "cost",
-      "name"
+      "name",
+      "set"
     ],
     "formats": [
       {
