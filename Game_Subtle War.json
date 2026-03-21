@@ -114,13 +114,13 @@
               ]
             },
             {"direction": "row",
-              "style": false,
+              "style": {"width": "10vh"},
               "isSymetricalForOpponents": false,
               "content": [
-              {"section": "minor-treasure", "optional": {"key": "Minor Treasure Deck"}},
-                {"section": "moderate-treasure", "optional": {"key": "Moderate Treasure Deck"}},
-                {"section": "major-treasure", "optional": {"key": "Major Treasure Deck"}},
-                {"section": "titan-treasure", "optional": {"key": "Titan Treasure Deck"}}
+              {"section": "minor-treasure"},
+                {"section": "moderate-treasure"},
+                {"section": "major-treasure"},
+                {"section": "titan-treasure"}
               ]
             }
         ]
