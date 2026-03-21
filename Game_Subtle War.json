@@ -97,7 +97,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Zone_1", "Zone_2", "Extra_Zone", "minor-treasure", "moderate-treasure", "major-treasure"
+          "Zone_1", "Zone_2", "Extra_Zone", "minor-treasure", "moderate-treasure", "major-treasure", "titan-treasure"
         ],
         "layout": {
           "direction": "column",
