@@ -31,7 +31,27 @@
       "beforeGameStart": {
             "initialBoardSetup": 
               [
-                {"createCardId": "Player", "count": 1, "destination": "Zone_2"}
+                {"createCardId": "Player", "count": 1, "destination": "Zone_2"},
+                {"createCardId": "Eye of the Incubus", "count": 1, "destination": "minor-treasure"},
+                {"createCardId": "Lamp of Diogenes", "count": 1, "destination": "minor-treasure"},
+                {"createCardId": "Bloodsoaked Splinter", "count": 1, "destination": "minor-treasure"},
+                {"createCardId": "Prey-Prayer", "count": 1, "destination": "minor-treasure"},
+                {"createCardId": "Mark of Horus", "count": 1, "destination": "minor-treasure"},
+                {"createCardId": "Rhongomiant", "count": 1, "destination": "moderate-treasure"},
+                {"createCardId": "Maze of Minos", "count": 1, "destination": "moderate-treasure"},
+                {"createCardId": "For the Dragon", "count": 1, "destination": "moderate-treasure"},
+                {"createCardId": "Call The Children", "count": 1, "destination": "moderate-treasure"},
+                {"createCardId": "Roar of Sekhmet", "count": 1, "destination": "moderate-treasure"},
+                {"createCardId": "Circle of the Broceliande", "count": 1, "destination": "major-treasure"},
+                {"createCardId": "Primal Cerastes", "count": 1, "destination": "major-treasure"},
+                {"createCardId": "Strigon", "count": 1, "destination": "major-treasure"},
+                {"createCardId": "Companion Rune", "count": 1, "destination": "major-treasure"},
+                {"createCardId": "Horizon-Sphinx", "count": 1, "destination": "major-treasure"},
+                {"createCardId": "Merlin, Court Wizard", "count": 1, "destination": "titan-treasure"},
+                {"createCardId": "Prometheus, Firebringer", "count": 1, "destination": "titan-treasure"},
+                {"createCardId": "Tepes, Hero of Wallachia", "count": 1, "destination": "titan-treasure"},
+                {"createCardId": "Ka-Te, First Hunter", "count": 1, "destination": "titan-treasure"},
+                {"createCardId": "Ammut, Eater of Hearts", "count": 1, "destination": "titan-treasure"}
               ]
           },
       "mulligan": {
@@ -77,7 +97,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Zone_1", "Zone_2", "Extra_Zone"
+          "Zone_1", "Zone_2", "Extra_Zone", "minor-treasure", "moderate-treasure", "major-treasure"
         ],
         "layout": {
           "direction": "column",
@@ -140,6 +160,34 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          },
+          "minor-treasure": {
+            "title": "minor-treasure",
+            "isHidden": "yes",
+            "height": "medium",
+            "alignment": "DECK",
+            "displayed-title": "Minor Treasure"
+          },
+          "moderate-treasure": {
+            "title": "moderate-treasure",
+            "isHidden": "yes",
+            "height": "medium",
+            "alignment": "DECK",
+            "displayed-title": "Moderate Treasure"
+          },
+          "major-treasure": {
+            "title": "major-treasure",
+            "isHidden": "yes",
+            "height": "medium",
+            "alignment": "DECK",
+            "displayed-title": "Major Treasure"
+          },
+          "titan-treasure": {
+            "title": "titan-treasure",
+            "isHidden": "yes",
+            "height": "medium",
+            "alignment": "DECK",
+            "displayed-title": "Titan Treasure"
           }
           }
           }
