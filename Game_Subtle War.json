@@ -100,14 +100,31 @@
           "Zone_1", "Zone_2", "Extra_Zone", "minor-treasure", "moderate-treasure", "major-treasure", "titan-treasure"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "style": false,
           "isSymetricalForOpponents": false,
           "content": [
+            {"direction": "column",
+            "style": false,
+            "isSymetricalForOpponents": false,
+            "content": [
             {"section": "Extra_Zone", "optional": {"key": "Extra Zone"}},
               {"section": "Zone_2"}, 
               {"section": "Zone_1"}
-            ]
+              ]
+            },
+            {"direction": "row",
+              "style": false,
+              "isSymetricalForOpponents": false,
+              "content": [
+              {"section": "minor-treasure", "optional": {"key": "Minor Treasure Deck"}},
+                {"section": "moderate-treasure", "optional": {"key": "Moderate Treasure Deck"}},
+                {"section": "major-treasure", "optional": {"key": "Major Treasure Deck"}},
+                {"section": "titan-treasure", "optional": {"key": "Titan Treasure Deck"}}
+              ]
+            }
+        ]
+          
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
