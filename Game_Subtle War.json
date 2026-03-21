@@ -9,7 +9,7 @@
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://TheFirstEtc.github.io/TCG%20Arena%20Subtle%20War%20Card%20List.json",
-    "cardBack": ""
+    "cardBack": "https://TheFirstEtc.github.io/placeholderCardBack.png?raw=true"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -94,7 +94,7 @@
       "countersStartingValues": [
         25, 1
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Zone_1", "Zone_2", "Extra_Zone", "minor-treasure", "moderate-treasure", "major-treasure", "titan-treasure"
@@ -113,18 +113,28 @@
               {"section": "Zone_1"}
               ]
             },
-            {"direction": "row",
-              "style": {"width": "10vh"},
+            {"direction": "column",
+            "style": {"width": "10vh"},
+            "isSymetricalForOpponents": false,
+            "content": [{
+              "direction": "row",
+              "style": {"width": "20vh"},
               "isSymetricalForOpponents": false,
               "content": [
               {"section": "minor-treasure"},
-                {"section": "moderate-treasure"},
+                {"section": "moderate-treasure"}
+              ]
+            }, {
+              "direction": "row",
+              "style": {"width": "20vh"},
+              "isSymetricalForOpponents": false,
+              "content": [
                 {"section": "major-treasure"},
                 {"section": "titan-treasure"}
               ]
+            }]
             }
         ]
-          
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
