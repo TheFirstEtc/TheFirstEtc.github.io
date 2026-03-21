@@ -407,7 +407,7 @@
             "back": {
                 "name": "W. Aster",
                 "type": "Legendary Entity",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/w.%20aster.png?raw=true",
                 "isHorizontal": false
             }
@@ -705,6 +705,13 @@
                 "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ammut,%20eater%20of%20hearts.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Titan%20Treasure.png?raw=true"
             }
         },
         "name": "Ammut, Eater of Hearts",
@@ -3126,6 +3133,13 @@
                 "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/bloodsoaked%20splinter.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Minor%20Treasure.png?raw=true"
             }
         },
         "name": "Bloodsoaked Splinter",
@@ -3368,7 +3382,7 @@
             "back": {
                 "name": "Zeraxus, Sky-Tyrant",
                 "type": "Legendary Dragon Entity",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/zeraxus,%20sky-tyrant.png?raw=true",
                 "isHorizontal": false
             },
@@ -4248,7 +4262,14 @@
             },
             "tokens": [
                 "Beastman"
-            ]
+            ],
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Moderate%20Treasure.png?raw=true"
+            }
         },
         "name": "Call The Children",
         "type": "Moderate Treasure Evocation",
@@ -5149,7 +5170,7 @@
             "back": {
                 "name": "Chrysalescant, Budded",
                 "type": "Legendary Entity",
-                "cost": "1",
+                "cost": 1,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/chrysalescant,%20budded.png?raw=true",
                 "isHorizontal": false
             }
@@ -5308,6 +5329,13 @@
                 "cost": 7,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/circle%20of%20the%20broceliande.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Major%20Treasure.png?raw=true"
             }
         },
         "name": "Circle of the Broceliande",
@@ -5485,7 +5513,7 @@
             "back": {
                 "name": "W. Aster",
                 "type": "Legendary Entity",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/w.%20aster.png?raw=true",
                 "isHorizontal": false
             }
@@ -5885,7 +5913,14 @@
             },
             "tokens": [
                 "Joyful"
-            ]
+            ],
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Major%20Treasure.png?raw=true"
+            }
         },
         "name": "Companion Rune",
         "type": "Major Treasure Evocation",
@@ -7370,7 +7405,7 @@
             "back": {
                 "name": "W. Aster",
                 "type": "Legendary Entity",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/w.%20aster.png?raw=true",
                 "isHorizontal": false
             }
@@ -7564,7 +7599,7 @@
             "back": {
                 "name": "Fate Inevitable",
                 "type": "Entity",
-                "cost": "8",
+                "cost": 8,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/fate%20inevitable.png?raw=true",
                 "isHorizontal": false
             }
@@ -9660,6 +9695,13 @@
                 "cost": 1,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/eye%20of%20the%20incubus.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Minor%20Treasure.png?raw=true"
             }
         },
         "name": "Eye of the Incubus",
@@ -10246,7 +10288,7 @@
             "back": {
                 "name": "Atrophrase",
                 "type": "Swift Evocation",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/atrophrase.png?raw=true",
                 "isHorizontal": false
             }
@@ -10528,7 +10570,7 @@
             "back": {
                 "name": "Veska, Burning Prophet",
                 "type": "Legendary Dragon Entity",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/veska,%20burning%20prophet.png?raw=true",
                 "isHorizontal": false
             }
@@ -10928,6 +10970,13 @@
                 "cost": 5,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/for%20the%20dragon.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Moderate%20Treasure.png?raw=true"
             }
         },
         "name": "For the Dragon",
@@ -11085,7 +11134,7 @@
             "back": {
                 "name": "Selfbleeding",
                 "type": "Entity",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/selfbleeding.png?raw=true",
                 "isHorizontal": false
             }
@@ -12218,7 +12267,7 @@
             "back": {
                 "name": "Lumetracery",
                 "type": "Construct Entity",
-                "cost": "5",
+                "cost": 5,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/lumetracery.png?raw=true",
                 "isHorizontal": false
             }
@@ -13588,7 +13637,7 @@
             "back": {
                 "name": "Stygos, Grasping Greed",
                 "type": "Legendary Dragon Entity",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/stygos,%20grasping%20greed.png?raw=true",
                 "isHorizontal": false
             }
@@ -13963,6 +14012,13 @@
                 "cost": 9,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/horizon-sphinx.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Major%20Treasure.png?raw=true"
             }
         },
         "name": "Horizon-Sphinx",
@@ -14001,7 +14057,7 @@
             "back": {
                 "name": "Unceasing Empty",
                 "type": "Entity",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/unceasing%20empty.png?raw=true",
                 "isHorizontal": false
             }
@@ -15001,7 +15057,7 @@
             "back": {
                 "name": "Steel Warcannon",
                 "type": "Armament",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/steel%20warcannon.png?raw=true",
                 "isHorizontal": false
             }
@@ -15342,6 +15398,13 @@
                 "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/ka-te,%20first%20hunter.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Titan%20Treasure.png?raw=true"
             }
         },
         "name": "Ka-Te, First Hunter",
@@ -15796,6 +15859,13 @@
                 "cost": 1,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/lamp%20of%20diogenes.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Minor%20Treasure.png?raw=true"
             }
         },
         "name": "Lamp of Diogenes",
@@ -17135,6 +17205,13 @@
                 "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/mark%20of%20horus.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Minor%20Treasure.png?raw=true"
             }
         },
         "name": "Mark of Horus",
@@ -17467,6 +17544,13 @@
                 "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/maze%20of%20minos.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Moderate%20Treasure.png?raw=true"
             }
         },
         "name": "Maze of Minos",
@@ -17765,6 +17849,13 @@
                 "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/merlin,%20court%20wizard.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Titan%20Treasure.png?raw=true"
             }
         },
         "name": "Merlin, Court Wizard",
@@ -19275,7 +19366,7 @@
             "back": {
                 "name": "Thorned Acorn",
                 "type": "Oaken Ward",
-                "cost": "0",
+                "cost": 0,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20acorn.png?raw=true",
                 "isHorizontal": false
             }
@@ -19299,7 +19390,7 @@
             "back": {
                 "name": "Thorned Bark",
                 "type": "Oaken Ward",
-                "cost": "1",
+                "cost": 1,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20bark.png?raw=true",
                 "isHorizontal": false
             }
@@ -19323,7 +19414,7 @@
             "back": {
                 "name": "Thorned Claw",
                 "type": "Oaken Ward",
-                "cost": "1",
+                "cost": 1,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20claw.png?raw=true",
                 "isHorizontal": false
             }
@@ -19347,7 +19438,7 @@
             "back": {
                 "name": "Thorned Distortion",
                 "type": "Oaken Ward",
-                "cost": "1",
+                "cost": 1,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20distortion.png?raw=true",
                 "isHorizontal": false
             }
@@ -19388,7 +19479,7 @@
             "back": {
                 "name": "Thorned Fang",
                 "type": "Oaken Ward",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20fang.png?raw=true",
                 "isHorizontal": false
             }
@@ -19412,7 +19503,7 @@
             "back": {
                 "name": "Thorned Graverot",
                 "type": "Oaken Ward",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20graverot.png?raw=true",
                 "isHorizontal": false
             }
@@ -19436,7 +19527,7 @@
             "back": {
                 "name": "Thorned Heart",
                 "type": "Oaken Ward",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20heart.png?raw=true",
                 "isHorizontal": false
             }
@@ -19480,7 +19571,7 @@
             "back": {
                 "name": "Thorned Jailor",
                 "type": "Oaken Ward",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20jailor.png?raw=true",
                 "isHorizontal": false
             }
@@ -19504,7 +19595,7 @@
             "back": {
                 "name": "Thorned King",
                 "type": "Legendary Oaken Ward",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20king.png?raw=true",
                 "isHorizontal": false
             }
@@ -19528,7 +19619,7 @@
             "back": {
                 "name": "Thorned Leaf",
                 "type": "Oaken Ward",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20leaf.png?raw=true",
                 "isHorizontal": false
             }
@@ -19552,7 +19643,7 @@
             "back": {
                 "name": "Thorned Moth",
                 "type": "Legendary Oaken Ward",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20moth.png?raw=true",
                 "isHorizontal": false
             }
@@ -19576,7 +19667,7 @@
             "back": {
                 "name": "Thorned Nightmare",
                 "type": "Oaken Ward",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20nightmare.png?raw=true",
                 "isHorizontal": false
             },
@@ -19620,7 +19711,7 @@
             "back": {
                 "name": "Thorned Predator",
                 "type": "Oaken Hex",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20predator.png?raw=true",
                 "isHorizontal": false
             }
@@ -19644,7 +19735,7 @@
             "back": {
                 "name": "Thorned Queen",
                 "type": "Legendary Oaken Ward",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20queen.png?raw=true",
                 "isHorizontal": false
             }
@@ -19668,7 +19759,7 @@
             "back": {
                 "name": "Thorned Ravager",
                 "type": "Oaken Ward",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20ravager.png?raw=true",
                 "isHorizontal": false
             }
@@ -19692,7 +19783,7 @@
             "back": {
                 "name": "Thorned Saint",
                 "type": "Oaken Ward",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20saint.png?raw=true",
                 "isHorizontal": false
             }
@@ -19716,7 +19807,7 @@
             "back": {
                 "name": "Thorned Traitor",
                 "type": "Oaken Ward",
-                "cost": "5",
+                "cost": 5,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20traitor.png?raw=true",
                 "isHorizontal": false
             }
@@ -19757,7 +19848,7 @@
             "back": {
                 "name": "Thorned Viper",
                 "type": "Oaken Ward",
-                "cost": "6",
+                "cost": 6,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20viper.png?raw=true",
                 "isHorizontal": false
             }
@@ -19781,7 +19872,7 @@
             "back": {
                 "name": "Thorned Walker",
                 "type": "Oaken Ward",
-                "cost": "7",
+                "cost": 7,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20walker.png?raw=true",
                 "isHorizontal": false
             }
@@ -19805,7 +19896,7 @@
             "back": {
                 "name": "Thorned Xenos",
                 "type": "Oaken Ward",
-                "cost": "8",
+                "cost": 8,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20xenos.png?raw=true",
                 "isHorizontal": false
             }
@@ -19846,7 +19937,7 @@
             "back": {
                 "name": "Thorned Zenith",
                 "type": "Oaken Ward",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/thorned%20zenith.png?raw=true",
                 "isHorizontal": false
             }
@@ -21421,6 +21512,13 @@
                 "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/prey-prayer.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Minor%20Treasure.png?raw=true"
             }
         },
         "name": "Prey-Prayer",
@@ -21455,6 +21553,13 @@
                 "cost": 7,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/primal%20cerastes.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Major%20Treasure.png?raw=true"
             }
         },
         "name": "Primal Cerastes",
@@ -21637,6 +21742,13 @@
                 "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/prometheus,%20firebringer.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Titan%20Treasure.png?raw=true"
             }
         },
         "name": "Prometheus, Firebringer",
@@ -23072,6 +23184,13 @@
                 "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/rhongomiant.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Moderate%20Treasure.png?raw=true"
             }
         },
         "name": "Rhongomiant",
@@ -23299,7 +23418,14 @@
             },
             "tokens": [
                 "Heracosphinx"
-            ]
+            ],
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Moderate%20Treasure.png?raw=true"
+            }
         },
         "name": "Roar of Sekhmet",
         "type": "Moderate Treasure Swift Evocation",
@@ -24080,7 +24206,7 @@
             "back": {
                 "name": "Eras, Silent Queen",
                 "type": "Legendary Dragon Entity",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/eras,%20silent%20queen.png?raw=true",
                 "isHorizontal": false
             }
@@ -24711,7 +24837,7 @@
             "back": {
                 "name": "Standing Ovation",
                 "type": "Evocation",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/standing%20ovation.png?raw=true",
                 "isHorizontal": false
             }
@@ -25274,7 +25400,7 @@
             "back": {
                 "name": "Treus, Mournful Harvest",
                 "type": "Legendary Dragon Entity",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/treus,%20mournful%20harvest.png?raw=true",
                 "isHorizontal": false
             },
@@ -25409,7 +25535,7 @@
             "back": {
                 "name": "W. Aster",
                 "type": "Legendary Entity",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/w.%20aster.png?raw=true",
                 "isHorizontal": false
             }
@@ -25660,7 +25786,7 @@
             "back": {
                 "name": "Beating Heart",
                 "type": "Ward",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/beating%20heart.png?raw=true",
                 "isHorizontal": false
             }
@@ -27173,6 +27299,13 @@
                 "cost": 8,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/strigon.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Major%20Treasure.png?raw=true"
             }
         },
         "name": "Strigon",
@@ -28356,6 +28489,13 @@
                 "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/tepes,%20hero%20of%20wallachia.png?raw=true",
                 "isHorizontal": false
+            },
+            "back": {
+                "name": "",
+                "type": "",
+                "cost": 0,
+                "isHorizontal": false,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/Titan%20Treasure.png?raw=true"
             }
         },
         "name": "Tepes, Hero of Wallachia",
@@ -28806,7 +28946,7 @@
             "back": {
                 "name": "Perilunar Wreath",
                 "type": "Legendary Ward",
-                "cost": "6",
+                "cost": 6,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/perilunar%20wreath.png?raw=true",
                 "isHorizontal": false
             }
@@ -28830,7 +28970,7 @@
             "back": {
                 "name": "Biostationary",
                 "type": "Legendary Ward",
-                "cost": "3",
+                "cost": 3,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/biostationary.png?raw=true",
                 "isHorizontal": false
             }
@@ -29493,7 +29633,7 @@
             "back": {
                 "name": "The Awoken Titan",
                 "type": "Legendary Titan Entity",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/the%20awoken%20titan.png?raw=true",
                 "isHorizontal": false
             }
@@ -31021,7 +31161,7 @@
             "back": {
                 "name": "Scyllus, Drowned Despot",
                 "type": "Legendary Dragon Entity",
-                "cost": "10",
+                "cost": 10,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/scyllus,%20drowned%20despot.png?raw=true",
                 "isHorizontal": false
             },
@@ -31561,7 +31701,7 @@
             "back": {
                 "name": "W. Aster",
                 "type": "Legendary Entity",
-                "cost": "2",
+                "cost": 2,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/w.%20aster.png?raw=true",
                 "isHorizontal": false
             }
@@ -32538,7 +32678,7 @@
             "back": {
                 "name": "Venti Boreas",
                 "type": "Legendary Entity",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/venti%20boreas.png?raw=true",
                 "isHorizontal": false
             }
@@ -32562,7 +32702,7 @@
             "back": {
                 "name": "Venti Notos",
                 "type": "Legendary Entity",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/venti%20notos.png?raw=true",
                 "isHorizontal": false
             }
@@ -32586,7 +32726,7 @@
             "back": {
                 "name": "Venti Eurus",
                 "type": "Legendary Entity",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/venti%20eurus.png?raw=true",
                 "isHorizontal": false
             }
@@ -32610,7 +32750,7 @@
             "back": {
                 "name": "Venti Zephyrus",
                 "type": "Legendary Entity",
-                "cost": "4",
+                "cost": 4,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/venti%20zephyrus.png?raw=true",
                 "isHorizontal": false
             }
@@ -34296,7 +34436,7 @@
             "back": {
                 "name": "Wavewit",
                 "type": "Entity",
-                "cost": "7",
+                "cost": 7,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/wavewit.png?raw=true",
                 "isHorizontal": false
             }
@@ -35171,7 +35311,7 @@
             "back": {
                 "name": "Name of the Leviathan",
                 "type": "Entity",
-                "cost": "20",
+                "cost": 20,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/name%20of%20the%20leviathan.png?raw=true",
                 "isHorizontal": false
             },
@@ -36302,7 +36442,7 @@
             "back": {
                 "name": "Rebellious Mob",
                 "type": "Entity",
-                "cost": "8",
+                "cost": 8,
                 "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/longcardsfirst/longcardsfirst/rebellious%20mob.png?raw=true",
                 "isHorizontal": false
             }

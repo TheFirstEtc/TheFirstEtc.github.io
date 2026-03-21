@@ -193,28 +193,28 @@
             "isHidden": "yes",
             "height": "medium",
             "alignment": "DECK",
-            "displayed-title": "Minor Treasure"
+            "displayedTitle": "Minor Treasure"
           },
           "moderate-treasure": {
             "title": "moderate-treasure",
             "isHidden": "yes",
             "height": "medium",
             "alignment": "DECK",
-            "displayed-title": "Moderate Treasure"
+            "displayedTitle": "Moderate Treasure"
           },
           "major-treasure": {
             "title": "major-treasure",
             "isHidden": "yes",
             "height": "medium",
             "alignment": "DECK",
-            "displayed-title": "Major Treasure"
+            "displayedTitle": "Major Treasure"
           },
           "titan-treasure": {
             "title": "titan-treasure",
             "isHidden": "yes",
             "height": "medium",
             "alignment": "DECK",
-            "displayed-title": "Titan Treasure"
+            "displayedTitle": "Titan Treasure"
           }
           }
           }
