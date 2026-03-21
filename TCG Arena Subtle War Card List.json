@@ -1,4 +1,21 @@
 {
+    "Player": {
+        "id": "Player",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Player",
+                "type": "Uncollectable",
+                "cost": 0,
+                "image": "https://github.com/TheFirstEtc/TheFirstEtc.github.io/blob/main/player.png?raw=true",
+                "isHorizontal": false
+            }
+        },
+        "name": "Player",
+        "type": "Uncollectable",
+        "cost": 0,
+        "set": "Uncollectable"
+    },
     "A Dream of Bees": {
         "id": "A Dream of Bees",
         "isToken": false,

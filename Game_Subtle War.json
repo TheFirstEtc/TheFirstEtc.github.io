@@ -28,6 +28,12 @@
   },
   "gameplay": {
     "Classic": {
+      "beforeGameStart": {
+            "initialBoardSetup": 
+              [
+                {"createCardId": "Player", "count": 1, "destination": "Zone_2"}
+              ]
+          },
       "mulligan": {
         "info": "Redraw your hand",
         "startingHandSize": 4,
@@ -136,7 +142,7 @@
             "showHiddenCardInHistory": false
           }
           }
+          }
         }
       }
     }
-  }
